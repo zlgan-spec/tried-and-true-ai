@@ -1,0 +1,76 @@
+# Tried and True AI
+
+English | [中文](README.zh-CN.md)
+
+I come from a non-technical background. Everything here is a public resource I've **actually used and found helpful** while building projects with AI.
+
+The list keeps growing. Star the repo to follow along, and feel free to recommend your favorites in [Issues](https://github.com/zlgan-spec/tried-and-true-ai/issues).
+
+## Contents
+
+- [People Worth Following](#people-worth-following)
+- [Understanding AI](#understanding-ai)
+- [Skills & Tools](#skills--tools)
+- [Communities](#communities)
+- [Web Design Inspiration](#web-design-inspiration)
+- [UI Components & Motion](#ui-components--motion)
+
+## People Worth Following
+
+- [Matt Pocock](https://github.com/mattpocock) - A well-known TypeScript educator now focused on teaching AI coding. His [skills](https://github.com/mattpocock/skills) are written for engineers, but the way he approaches projects is a great reference for non-developers too
+- [Zara Zhang](https://github.com/zarazhangrui) - An AI tinkerer from a non-technical background, best known for [frontend-slides](https://github.com/zarazhangrui/frontend-slides) (web-based slides made by AI). Her [codebase-to-course](https://github.com/zarazhangrui/codebase-to-course) turns any codebase into an interactive course for non-technical learners. Also active on Xiaohongshu
+- [Khazix - khazix-skills](https://github.com/KKKKhazix/khazix-skills) - An open-source skill collection by the author of the WeChat account "数字生命卡兹克" (Digital Life Khazix). Follow the account for the latest AI news (in Chinese)
+
+## Understanding AI
+
+- [Dictionary of AI Coding](https://github.com/mattpocock/dictionary-of-ai-coding) - AI coding jargon explained in plain English. One I keep coming back to
+- [Understanding AI Agents (深入理解 AI Agent)](https://github.com/bojieli/ai-agent-book) ⭐ Highly recommended - An open-source book by Bojie Li, with full text and PDF (in Chinese). We often don't know what we don't know. Understanding how agents work helps you use AI better
+
+## Skills & Tools
+
+- [skills.sh](https://www.skills.sh/) - A directory of popular agent skills. I browse it regularly, grab one, and customize it. Much faster than writing a skill from scratch
+- [ponytail](https://github.com/DietrichGebert/ponytail) - Gets AI to do more with less code. Less code, fewer bugs
+- [taste-skill](https://github.com/Leonxlnx/taste-skill) - Gives AI good taste, so it stops generating generic template-looking pages
+- [pptx2html-turbo](https://github.com/brnyxx/pptx2html-turbo) - Converts old PowerPoint files to HTML. HTML is much easier for AI to work with, so you can keep editing with AI afterwards. Has an online version
+- Cloning a website, pick one:
+  - [claude-skill-web-clone](https://github.com/Jane-xiaoer/claude-skill-web-clone) - A methodology: read the site's real source first, then rebuild, instead of letting AI guess
+  - [ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) - A template: start cloning with one command
+
+## Communities
+
+- [WaytoAGI](https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e) - A very active Chinese AI community with tons of material, though quality varies. Let AI search it for you, or browse when you have time
+
+## Web Design Inspiration
+
+AI-made pages often look "AI-ish". Give AI good references to learn from.
+
+**Find inspiration**
+
+- [Dribbble](https://dribbble.com/) - A huge library of visual design. I often just paste a link and ask AI to use it as a reference
+- [Awwwards](https://www.awwwards.com/) - Award-winning websites
+- [Land-book](https://land-book.com/) - Landing page design gallery
+- [SaaS Landing Page](https://saaslandingpage.com/) - SaaS landing pages only
+- [Supahero](https://supahero.io/) - Website hero section gallery
+
+**Ready to use**
+
+- [v0 Templates](https://v0.app/templates) - All kinds of web templates
+- [MotionSites](https://motionsites.ai/) - Ready-made website prompts. Paste one into AI and get an animated site
+
+**Sites I use as models**
+
+- [Anthropic - Path to Hope](https://www.anthropic.com/path-to-hope) - An official site, a safe one to learn from
+- [Shopify Academy](https://www.shopifyacademy.com/)
+- [Notion](https://www.notion.com/)
+
+## UI Components & Motion
+
+- [React Bits](https://reactbits.dev/) - 200+ ready-made animated components with code. Combine them like building blocks
+- [oriform](https://www.oriform.art/) - A gallery of front-end effects. Small but high quality, copy with one click
+- [sticker-forge](https://github.com/CatsJuice/sticker-forge) - Peelable sticker effects. I love it and use it in my own work
+- [Rough Notation](https://roughnotation.com/) - Hand-drawn underline and circle animations. Describing this to AI rarely works well, so just use this
+- [Voxel Icon](https://voxel-icon.vercel.app/) - 3D voxel icons, plus a skill that generates matching ones
+
+## License
+
+Content is licensed under [CC BY 4.0](LICENSE). Please credit the source when sharing.
