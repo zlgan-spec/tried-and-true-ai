@@ -62,8 +62,7 @@ AI gives you the average of the internet. It's a solid baseline, but it tends to
 **Sites I use as models**
 
 - [Anthropic - Path to Hope](https://www.anthropic.com/path-to-hope) - An official site, a safe one to learn from
-- [Shopify Academy](https://www.shopifyacademy.com/)
-- [Notion](https://www.notion.com/)
+- [Notion](https://www.notion.com/) - Mostly black and white, with big headlines, hand-drawn character illustrations and product screenshots as the main visual. A model for clean, no-frills product homepages
 
 ## UI Components & Motion
 

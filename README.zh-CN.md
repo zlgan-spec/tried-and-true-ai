@@ -62,8 +62,7 @@ AI 给的是互联网的平均值，能及格，但容易千篇一律、带 AI �
 **我当范本的网站**
 
 - [Anthropic - Path to Hope](https://www.anthropic.com/path-to-hope) - 官方站，照着学不容易出错
-- [Shopify Academy](https://www.shopifyacademy.com/)
-- [Notion](https://www.notion.com/)
+- [Notion](https://www.notion.com/) - 黑白为主、大字标题、手绘小人插画，用产品截图当主视觉。想做简洁不花哨的产品首页，照它学
 
 ## 网页组件与动效
 
