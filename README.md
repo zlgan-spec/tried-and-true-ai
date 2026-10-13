@@ -2,7 +2,7 @@
 
 English | [中文](README.zh-CN.md)
 
-I come from a non-technical background. Everything here is a public resource I've **actually used and found helpful** while building projects with AI.
+I come from a non-technical background. Everything here is a public resource I've **actually used and found helpful** while building projects with AI. AI news never stops. My rule is fewer, better sources: follow people who actually build things, then go build - don't let scrolling eat the time for doing.
 
 The list keeps growing. Star the repo to follow along, and feel free to recommend your favorites in [Issues](https://github.com/zlgan-spec/tried-and-true-ai/issues).
 
@@ -17,6 +17,7 @@ The list keeps growing. Star the repo to follow along, and feel free to recommen
 
 ## People Worth Following
 
+- [Andrej Karpathy](https://x.com/karpathy) - OpenAI founding member and former head of AI at Tesla; he coined "vibe coding" in a post on X. He's great at explaining LLMs to non-experts - his YouTube video Deep Dive into LLMs like ChatGPT is a good place to start
 - [Matt Pocock](https://github.com/mattpocock) - A well-known TypeScript educator now focused on teaching AI coding. His [skills](https://github.com/mattpocock/skills) are written for engineers, but the way he approaches projects is a great reference for non-developers too
 - [Zara Zhang](https://github.com/zarazhangrui) - An AI tinkerer from a non-technical background, best known for [frontend-slides](https://github.com/zarazhangrui/frontend-slides) (web-based slides made by AI). Her [codebase-to-course](https://github.com/zarazhangrui/codebase-to-course) turns any codebase into an interactive course for non-technical learners. Also active on Xiaohongshu
 - [Khazix - khazix-skills](https://github.com/KKKKhazix/khazix-skills) - An open-source skill collection by the author of the WeChat account "数字生命卡兹克" (Digital Life Khazix). Follow the account for the latest AI news (in Chinese)

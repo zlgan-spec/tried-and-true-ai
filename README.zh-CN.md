@@ -2,7 +2,7 @@
 
 [English](README.md) | 中文
 
-我是非技术背景，这里收录的都是我在用 AI 做项目的过程中**实际用过、确实有帮助**的公开资源。
+我是非技术背景，这里收录的都是我在用 AI 做项目的过程中**实际用过、确实有帮助**的公开资源。AI 资讯多到刷不完，我的原则是少而精：只跟真正在做东西的人，看完就去动手，不让刷信息占掉做事的时间。
 
 清单会持续更新，欢迎 Star 关注，也欢迎在 [Issues](https://github.com/zlgan-spec/tried-and-true-ai/issues) 推荐你觉得好的资源。
 
@@ -17,6 +17,7 @@
 
 ## 值得关注的人
 
+- [Andrej Karpathy](https://x.com/karpathy) - OpenAI 创始成员、前特斯拉 AI 负责人，"vibe coding"这个词就是他在 X 上提的。他很会把大模型讲给普通人听，YouTube 上的 Deep Dive into LLMs like ChatGPT 适合入门
 - [Matt Pocock](https://github.com/mattpocock) - TypeScript 名师，现在专注 AI 编程教学。他的 [skills](https://github.com/mattpocock/skills) 虽然写给工程师，但做项目的思路对非研发很有参考价值
 - [Zara Zhang](https://github.com/zarazhangrui) - 非技术背景的 AI 玩家，代表作 [frontend-slides](https://github.com/zarazhangrui/frontend-slides)（让 AI 做网页 PPT）；另有 [codebase-to-course](https://github.com/zarazhangrui/codebase-to-course)，能把代码仓库变成给非技术同学看的互动课程。小红书也有更新
 - [卡兹克 khazix-skills](https://github.com/KKKKhazix/khazix-skills) - 公众号「数字生命卡兹克」作者开源的 skill 合集。追 AI 最新动态看他的公众号
