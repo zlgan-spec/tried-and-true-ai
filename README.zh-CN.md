@@ -24,6 +24,7 @@
 ## 搞懂 AI
 
 - [Dictionary of AI Coding](https://github.com/mattpocock/dictionary-of-ai-coding) - 用大白话解释 AI 编程黑话，我会反复翻
+- [VibeHub](https://vibe-hub.org/) - 图解 vibe coding 常用术语，前后端、Git、AI 都有。每个词从"你会怎么说"讲到"它叫什么"，比如鼠标移上去按钮变色，叫 Hover。非研发没必要从 0 系统学技术，但关键的词得认识，我有空就翻几个补补盲区。另有一页「AI 味」清单，列了紫色发光、emoji 当图标这类 AI 页面的通病
 - [深入理解 AI Agent](https://github.com/bojieli/ai-agent-book) ⭐ 强烈推荐 - 李博杰的开源书，含全文和 PDF。很多时候我们不知道自己不知道什么，先懂 agent 的原理，才能更好地用 AI
 
 ## Skill 与工具
@@ -42,7 +43,7 @@
 
 ## 网页设计灵感
 
-AI 做的页面容易有 AI 味，给它好的参考让它模仿。
+AI 给的是互联网的平均值，能及格，但容易千篇一律、带 AI 味。想做出有自己风格的东西，得靠你的审美来挑、来定方向。审美是可以练的，多看好东西就会慢慢长出来。下面是我常看的，也常直接丢给 AI 当参考。
 
 **找灵感**
 

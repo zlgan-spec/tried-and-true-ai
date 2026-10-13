@@ -24,6 +24,7 @@ The list keeps growing. Star the repo to follow along, and feel free to recommen
 ## Understanding AI
 
 - [Dictionary of AI Coding](https://github.com/mattpocock/dictionary-of-ai-coding) - AI coding jargon explained in plain English. One I keep coming back to
+- [VibeHub](https://vibe-hub.org/) - An illustrated glossary of vibe coding terms across frontend, backend, Git and AI. Each entry goes from how you'd say it to what it's called: a button changing color when your mouse moves over it is a "Hover" state. Non-developers don't need to learn engineering from scratch, but we do need the key words. I skim a few whenever I have time to fill in my blind spots. There's also an "AI slop" guide listing tells like purple glows and emoji used as icons
 - [Understanding AI Agents (深入理解 AI Agent)](https://github.com/bojieli/ai-agent-book) ⭐ Highly recommended - An open-source book by Bojie Li, with full text and PDF (in Chinese). We often don't know what we don't know. Understanding how agents work helps you use AI better
 
 ## Skills & Tools
@@ -42,7 +43,7 @@ The list keeps growing. Star the repo to follow along, and feel free to recommen
 
 ## Web Design Inspiration
 
-AI-made pages often look "AI-ish". Give AI good references to learn from.
+AI gives you the average of the internet. It's a solid baseline, but it tends to look the same everywhere - the "AI look". To make something that feels like yours, your own taste has to do the choosing and steering. And taste can be trained: look at enough good work and it grows. Here's what I look at, and often hand straight to AI as references.
 
 **Find inspiration**
 
