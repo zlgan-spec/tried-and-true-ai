@@ -33,6 +33,7 @@ The list keeps growing. Star the repo to follow along, and feel free to recommen
 - [skills.sh](https://www.skills.sh/) - A directory of popular agent skills. I browse it regularly, grab one, and customize it. Much faster than writing a skill from scratch
 - [ponytail](https://github.com/DietrichGebert/ponytail) - Gets AI to do more with less code. Less code, fewer bugs
 - [taste-skill](https://github.com/Leonxlnx/taste-skill) - Gives AI good taste, so it stops generating generic template-looking pages
+- [Supabase](https://supabase.com/) - A hassle-free backend platform that's a vibe coding staple: data, users, login and more. Has a free tier
 - [pptx2html-turbo](https://github.com/brnyxx/pptx2html-turbo) - Converts old PowerPoint files to HTML. HTML is much easier for AI to work with, so you can keep editing with AI afterwards. Has an online version
 - Cloning a website, pick one:
   - [claude-skill-web-clone](https://github.com/Jane-xiaoer/claude-skill-web-clone) - A methodology: read the site's real source first, then rebuild, instead of letting AI guess
@@ -46,6 +47,8 @@ The list keeps growing. Star the repo to follow along, and feel free to recommen
 
 AI gives you the average of the internet. It's a solid baseline, but it tends to look the same everywhere - the "AI look". To make something that feels like yours, your own taste has to do the choosing and steering. And taste can be trained: look at enough good work and it grows. Here's what I look at, and often hand straight to AI as references.
 
+Once the PRD is settled and I move on to visuals, my order is: get the overall style → break down the page structure → note the details that can actually be built → start vibe coding.
+
 **Find inspiration**
 
 - [Dribbble](https://dribbble.com/) - A huge library of visual design. I often just paste a link and ask AI to use it as a reference
@@ -53,6 +56,7 @@ AI gives you the average of the internet. It's a solid baseline, but it tends to
 - [Land-book](https://land-book.com/) - Landing page design gallery
 - [SaaS Landing Page](https://saaslandingpage.com/) - SaaS landing pages only
 - [Supahero](https://supahero.io/) - Website hero section gallery
+- [Curated](https://curated.design/) - High-quality company websites, filterable by style and industry. Each one links straight to the live site
 
 **Ready to use**
 
@@ -67,7 +71,10 @@ AI gives you the average of the internet. It's a solid baseline, but it tends to
 ## UI Components & Motion
 
 - [React Bits](https://reactbits.dev/) - 200+ ready-made animated components with code. Combine them like building blocks
+- [Aceternity UI](https://ui.aceternity.com/) - Not just single components, but whole sections you can snap together into a page
+- [Magic UI](https://magicui.design/) - Restrained motion. Once a static page is done and needs animation, hand it to AI as a reference. Best kept to first load, key actions and state changes
 - [oriform](https://www.oriform.art/) - A gallery of front-end effects. Small but high quality, copy with one click
+- [Codrops](https://tympanus.net/codrops/) - A web interaction inspiration library. Every demo explains the idea and comes with source code. Learn from the approach rather than copying it all wholesale
 - [sticker-forge](https://github.com/CatsJuice/sticker-forge) - Peelable sticker effects. I love it and use it in my own work
 - [Rough Notation](https://roughnotation.com/) - Hand-drawn underline and circle animations. Describing this to AI rarely works well, so just use this
 - [Voxel Icon](https://voxel-icon.vercel.app/) - 3D voxel icons, plus a skill that generates matching ones

@@ -33,6 +33,7 @@
 - [skills.sh](https://www.skills.sh/) - 热门 agent skill 目录。我会定期逛逛，下载后改成自己的版本，比从 0 写一个 skill 快
 - [ponytail](https://github.com/DietrichGebert/ponytail) - 让 AI 用更少的代码做出更好的效果，少写代码就少出错
 - [taste-skill](https://github.com/Leonxlnx/taste-skill) - 给 AI 装上"审美"，别再生成千篇一律的模板页面
+- [Supabase](https://supabase.com/) - vibe coding 常用的省心后端平台，数据、用户、登录这些都能做。有免费额度
 - [pptx2html-turbo](https://github.com/brnyxx/pptx2html-turbo) - 把旧 PPT 转成 HTML。HTML 对 AI 更友好，转完就能让 AI 接着改。有在线版
 - 克隆网页二选一：
   - [claude-skill-web-clone](https://github.com/Jane-xiaoer/claude-skill-web-clone) - 方法论型，先读网页真实源码再复刻，不靠 AI 瞎猜
@@ -46,6 +47,8 @@
 
 AI 给的是互联网的平均值，能及格，但容易千篇一律、带 AI 味。想做出有自己风格的东西，得靠你的审美来挑、来定方向。审美是可以练的，多看好东西就会慢慢长出来。下面是我常看的，也常直接丢给 AI 当参考。
 
+PRD 定下来、开始做视觉时，我的顺序是：先看整体风格 → 拆页面结构 → 记录可落地细节 → 进入 Vibe Coding。
+
 **找灵感**
 
 - [Dribbble](https://dribbble.com/) - 视觉设计大全，我常直接贴链接让 AI 参考
@@ -53,6 +56,7 @@ AI 给的是互联网的平均值，能及格，但容易千篇一律、带 AI �
 - [Land-book](https://land-book.com/) - 落地页设计合集
 - [SaaS Landing Page](https://saaslandingpage.com/) - 专门收 SaaS 落地页
 - [Supahero](https://supahero.io/) - 网站首屏设计合集
+- [Curated](https://curated.design/) - 高质量官网合集，可按风格和行业筛选，点进去就是真实在线的网站
 
 **拿来即用**
 
@@ -67,7 +71,10 @@ AI 给的是互联网的平均值，能及格，但容易千篇一律、带 AI �
 ## 网页组件与动效
 
 - [React Bits](https://reactbits.dev/) - 200+ 现成的动效组件，带代码，像搭积木一样组合
+- [Aceternity UI](https://ui.aceternity.com/) - 不只有单个组件，还有能直接拼成页面的区块
+- [Magic UI](https://magicui.design/) - 动效很克制。静态页面做完、要加动效时丢给 AI 参考，建议只用在首次进入、关键操作和状态变化上
 - [oriform](https://www.oriform.art/) - 前端动效展厅，数量不多但质量很高，一键复制
+- [Codrops](https://tympanus.net/codrops/) - 网页交互灵感库，每个案例都讲思路、附源码。适合学思路，不建议一键全部照搬
 - [sticker-forge](https://github.com/CatsJuice/sticker-forge) - 能撕的贴纸效果，我超级喜欢，自己也用上了
 - [Rough Notation](https://roughnotation.com/) - 手绘下划线、圈注动效。光靠口头描述，AI 很难做出不生硬的效果，用它就行
 - [Voxel Icon](https://voxel-icon.vercel.app/) - 3D 立体像素图标，附带一个能生成同款图标的 skill
